@@ -1,0 +1,17 @@
+<html>
+<head>
+
+</head>
+<body>
+<script>
+  var data = new Date();
+   var hora = data.getHours();
+    var min = data.getMinutes();
+     var sec = data.getSeconds();  
+ 	var dias = new Array("domingo","segunda","terça","quarta","quinta","sexta","sabado");
+         var meses = new Array("janero","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","dezembro");
+  alert("Hoje é "+ dias[data.getDay()] +" do mês de "+ meses[data.getMonth()] );
+  alert("E agora são "+hora+":"+min+":"+sec );
+</script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+*{
+  margin:none;
+}
+  div{
+    text-align:center;
+   	 margin:0 auto;
+   width:599px; 
+ 
+
+}
+div p{
+
+font-size:23px;
+}
+
+.division{
+  
+   }
+.lado-div{
+  background-color:orange;
+  width:100%;
+  height:60px; 
+  
+
+}
+a:link{
+ text-decoration:none;
+ color:white;
+cursor:pointer;
+ }
+a:visited{
+  color:white;
+  
+}
+#menu li:hover{
+   width:auto;
+   height:auto;
+   background-color:black;
+   color:white;
+   border-radius:20px;
+   transition:1s;
+}
+strong{
+  font-size:25px;
+  font-style:italic;
+}
+ul{
+list-style:none;
+}
+li{
+ font-size:20px;
+  text-decoration:none;
+color:white;
+}
+p{
+font-size:20PX;
+}
+#menu{
+ padding:0;
+}
+#menu li{
+  display:inline-block;
+}
+#menu li a{
+  padding:10px;
+  heigth:auto;
+
+}
+.head{
+    
+
+}
