@@ -1,0 +1,17 @@
+C:\meu projeto\meu-proj\meu-proj\bin\Debug\net6.0-windows\meu-proj.exe
+C:\meu projeto\meu-proj\meu-proj\bin\Debug\net6.0-windows\meu-proj.deps.json
+C:\meu projeto\meu-proj\meu-proj\bin\Debug\net6.0-windows\meu-proj.runtimeconfig.json
+C:\meu projeto\meu-proj\meu-proj\bin\Debug\net6.0-windows\meu-proj.dll
+C:\meu projeto\meu-proj\meu-proj\bin\Debug\net6.0-windows\meu-proj.pdb
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.csproj.AssemblyReference.cache
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu_proj.Form1.resources
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.csproj.GenerateResource.cache
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.AssemblyInfoInputs.cache
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.AssemblyInfo.cs
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.csproj.CoreCompileInputs.cache
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.dll
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\refint\meu-proj.dll
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.pdb
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\meu-proj.genruntimeconfig.cache
+C:\meu projeto\meu-proj\meu-proj\obj\Debug\net6.0-windows\ref\meu-proj.dll
