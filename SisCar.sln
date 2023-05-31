@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisCar", "SisCar\SisCar.csproj", "{80359F9F-AEFD-4144-BD9E-FCE3067A686E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80359F9F-AEFD-4144-BD9E-FCE3067A686E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80359F9F-AEFD-4144-BD9E-FCE3067A686E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80359F9F-AEFD-4144-BD9E-FCE3067A686E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80359F9F-AEFD-4144-BD9E-FCE3067A686E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {708A4F3B-1103-4B50-88B2-4DA9F657D4A6}
+	EndGlobalSection
+EndGlobal
